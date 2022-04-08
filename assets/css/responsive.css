@@ -1,0 +1,50 @@
+@media only screen and (max-width:991px){
+    .main-textbox{
+        width: 80%;
+    }
+    footer{
+        padding-top: 30px;
+    }
+}
+@media only screen and (max-width:767px){
+    .main-textbox{
+        width: 100%;
+    }
+}
+@media only screen and (max-width:575px){
+    .main-heading{
+        font-size: 40px;
+    }
+    .services-img img{
+        width: 150px!important;
+        margin-bottom: 10px;
+    }
+    .about-us-tag{
+        bottom: -40px;
+    }
+    .about-us-tag h2{
+        font-size: 25px;
+    }
+}
+@media only screen and (min-width:576px){
+    .achievements-textarea{
+        padding: 50px 100px;
+    }
+    .video-textarea{
+        padding: 50px 100px 20px 100px;
+    }
+    .video-stat-box{
+        padding: 0;
+    }
+    .about-us-heading{
+        font-size: 50px;
+    }
+}
+@media only screen and (max-width:400px){
+    .main-heading{
+        font-size: 30px;
+    }
+    p,a{
+        font-size: 13px;
+    }
+}
